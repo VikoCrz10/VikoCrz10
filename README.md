@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chetan</h1> 
+<h1 align="center">Hi 👋, I'm Victor Cruz</h1> 
 <h3 align="center">Computer Systems Engineer | Software Developer 🌟</h3>
 
 <br>
