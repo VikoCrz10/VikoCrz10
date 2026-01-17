@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Salesforce Development (Trailhead)** and improving my skills in **Java & Full Stack Development**
 - 💻 Software Developer with experience in **Java, Spring Boot, React Native, Angular & MySQL**
 - 📱 Focused on **mobile and web applications** for real-world systems (restaurants, inventory, orders)
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **cruzcruzvictor63@gmail.com**
 - ⚡ Fun fact :- I enjoy turning real problems into software solutions 🚀
 
 <br>
