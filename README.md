@@ -4,9 +4,8 @@
 <br>
 
 <p align="right"> 
-  <h3>Profile Views :-</h3> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat"
-    alt="profile views" /> 
+  <h3>About me :-</h3> 
+  
 </p>
 
 <br>
@@ -25,12 +24,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/VikoCrz10/VikoCrz10/" target="blank">
+  <a href="https://www.linkedin.com/in/victor-cruz-cruz-1b574426a/" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin" height="30" width="40" />
   </a>
-  <a href="linkedin.com/in/victor-cruz-cruz-1b574426a" target="blank">
+  <a href="https://github.com/VikoCrz10/VikoCrz10/" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="github" height="30" width="40" />
@@ -69,35 +68,12 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="top languages"/>
-</p>
 
-<br>
 
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
-    alt="github stats"/>
-</p>
 
-<br>
 
-<p>
-  <img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117"
-    alt="github streak"/>
-</p>
 
-<br>
 
-<p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge" alt="followers"/>
-  </a>
-</p>
 
-[YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+
+[VikoCrz10](https://github.com/VikoCrz10/VikoCrz10/)
