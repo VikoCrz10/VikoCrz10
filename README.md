@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Cruz</h1> 
-<h3 align="center">Computer Systems Engineer | Software Developer 🌟</h3>
+<h3 align="center">Computer Systems Engineer | Software Developer | Mobile Application Developer 📱 🌟</h3>
 
 <br>
 
@@ -25,12 +25,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank">
+  <a href="https://github.com/VikoCrz10/VikoCrz10/" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
+  <a href="linkedin.com/in/victor-cruz-cruz-1b574426a" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="github" height="30" width="40" />
